@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: Paul's GitHub Page
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is a markdown file, but I usually use HTML!
